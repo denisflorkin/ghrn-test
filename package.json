@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "gren release"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gren": "0.0.1"
+    "github-release-notes": "^0.16.0"
   }
 }
